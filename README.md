@@ -1,4 +1,3 @@
-0xc256a6869dcc04af795c0f040b30f4a3fa9d3007
 این پروژه یک صفحه وب ساده است که به کاربران اجازه می‌دهد به کیف پول MetaMask خود متصل شوند و موجودی کیف پول خود را مشاهده کنند. این پروژه از کتابخانه Web3.js برای تعامل با MetaMask و دریافت اطلاعات موجودی کیف پول استفاده می‌کند.
 
 
@@ -18,7 +17,7 @@
 
 1. این ریپازیتوری را کلون کنید:
     ```sh
-    git clone https://github.com/nasserhaji/MetaMask-Wallet-Balance.git
+    git clone https://github.com/hashemabad/MetaMask-Wallet-Balance.git
     cd MetaMask-Wallet-Balance
     ```
 
